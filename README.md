@@ -13,4 +13,4 @@ This is a [Harmony](https://harmony.mod.land) Bot template for complete beginner
 
 See [LICENSE](LICENSE) for more info.
 
-Copyright 2020 @ Harmony
+Copyright 2021 @ Harmony
